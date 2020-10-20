@@ -1,0 +1,17 @@
+[package]
+name = "OpenImageIO"
+version = "0.1.0"
+authors = ["Scott Wilson <scott@propersquid.com>"]
+edition = "2018"
+license = "BSD-3-Clause"
+description = "Rust bindings for OpenImageIO (placeholder)"
+keywords = ["vfx", "animation", "cg", "openimageio", "oiio"]
+categories = ["api-bindings"]
+homepage = "https://www.github.com/scott-wilson/OpenImageIO-rs"
+documentation = "https://docs.rs/OpenImageIO"
+repository = "https://www.github.com/scott-wilson/OpenImageIO-rs"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
