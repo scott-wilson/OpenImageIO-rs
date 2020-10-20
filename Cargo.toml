@@ -1,5 +1,5 @@
 [package]
-name = "OpenImageIO"
+name = "openimageio"
 version = "0.1.0"
 authors = ["Scott Wilson <scott@propersquid.com>"]
 edition = "2018"
